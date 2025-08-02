@@ -1,5 +1,5 @@
 {
-  "name": "v-5",
+  "name": "gameway-strapi",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -15,15 +15,13 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "5.18.0",
-    "@strapi/plugin-users-permissions": "5.18.0",
-    "@strapi/provider-upload-cloudinary": "^5.18.1",
-    "@strapi/strapi": "5.18.0",
-    "better-sqlite3": "11.3.0",
+    "@strapi/plugin-cloud": "5.20.0",
+    "@strapi/plugin-users-permissions": "5.20.0",
+    "@strapi/strapi": "5.20.0",
+    "pg": "8.8.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
-    "stripe": "^18.3.0",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {},
@@ -32,7 +30,7 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "d3ff3cd7-a307-4f53-8258-bd3585ea54da",
-    "installId": "5367df97cbc250d9d76e9c6d7a6b1382b4f000b9cfe3c9191232e48bc820d951"
+    "uuid": "d85e1cb5-f36c-4130-8378-7d81e9f30d07",
+    "installId": "57a328a0ed72d7d9225fc6398305a99056e2d775009e2095ffccccbd311fd91f"
   }
 }
