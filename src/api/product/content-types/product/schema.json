@@ -138,6 +138,9 @@
     "originalPrice": {
       "type": "biginteger"
     },
+    "keywords": {
+      "type": "text"
+    },
     "workPlatform": {
       "type": "enumeration",
       "enum": [
