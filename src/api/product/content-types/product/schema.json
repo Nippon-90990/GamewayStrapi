@@ -111,6 +111,9 @@
     "description": {
       "type": "richtext"
     },
+    "descriptionkey": {
+      "type": "richtext"
+    },
     "gamekeys": {
       "type": "relation",
       "relation": "oneToMany",
