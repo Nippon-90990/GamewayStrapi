@@ -177,7 +177,7 @@
     "min_storage": {
       "type": "text"
     },
-    "min_sound_card:": {
+    "min_sound_card": {
       "type": "text"
     },
     "gametheme:": {
