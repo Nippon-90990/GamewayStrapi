@@ -159,7 +159,7 @@
     "max_storage": {
       "type": "text"
     },
-    "max_sound_card:": {
+    "max_sound_card": {
       "type": "text"
     },
     "min_os": {
