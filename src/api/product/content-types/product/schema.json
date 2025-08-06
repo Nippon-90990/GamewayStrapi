@@ -144,6 +144,153 @@
     "keywords": {
       "type": "text"
     },
+    "max_os": {
+      "type": "text"
+    },
+    "max_processor": {
+      "type": "text"
+    },
+    "max_memory": {
+      "type": "text"
+    },
+    "max_graphics": {
+      "type": "text"
+    },
+    "max_storage": {
+      "type": "text"
+    },
+    "max_sound_card:": {
+      "type": "text"
+    },
+    "min_os": {
+      "type": "text"
+    },
+    "min_processor": {
+      "type": "text"
+    },
+    "min_memory": {
+      "type": "text"
+    },
+    "min_graphics": {
+      "type": "text"
+    },
+    "min_storage": {
+      "type": "text"
+    },
+    "min_sound_card:": {
+      "type": "text"
+    },
+    "gametheme:": {
+      "type": "enumeration",
+      "enum": [
+        "Sci-Fi",
+        "Fantasy",
+        "Historical",
+        "Post-Apocalyptic",
+        "Dystopian",
+        "War",
+        "Military",
+        "Zombie",
+        "Anime",
+        "Superhero",
+        "Mystery",
+        "Detective",
+        "Crime",
+        "Western",
+        "Medieval",
+        "Horror",
+        "Cyberpunk",
+        "Space",
+        "Time Travel",
+        "Mythology",
+        "Magic",
+        "Cartoon",
+        "Realistic",
+        "Stylized",
+        "Pixel Art",
+        "Retro"
+      ]
+    },
+    "gamemod:": {
+      "type": "enumeration",
+      "enum": [
+        "Single Player",
+        "Multiplayer",
+        "Co-op",
+        "Online Multiplayer",
+        "Offline",
+        "Crossplay",
+        "Split Screen",
+        "Local Multiplayer",
+        "MMO",
+        "PvP",
+        "PvE",
+        "Battle Royale",
+        "Open World",
+        "Linear",
+        "Procedural Generation",
+        "Turn-based",
+        "Real-time"
+      ]
+    },
+    "gametag-1:": {
+      "type": "enumeration",
+      "enum": [
+        "Action",
+        "Adventure",
+        "Role-Playing (RPG)",
+        "Shooter",
+        "Fighting",
+        "Racing",
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Horror",
+        "Platformer",
+        "Survival",
+        "Sports",
+        "Stealth",
+        "Rhythm",
+        "Visual Novel",
+        "Hack and Slash",
+        "Sandbox",
+        "Roguelike",
+        "MOBA",
+        "Metroidvania",
+        "Turn-Based",
+        "Open World",
+        "Idle"
+      ]
+    },
+    "gametag-2:": {
+      "type": "enumeration",
+      "enum": [
+        "Action",
+        "Adventure",
+        "Role-Playing (RPG)",
+        "Shooter",
+        "Fighting",
+        "Racing",
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Horror",
+        "Platformer",
+        "Survival",
+        "Sports",
+        "Stealth",
+        "Rhythm",
+        "Visual Novel",
+        "Hack and Slash",
+        "Sandbox",
+        "Roguelike",
+        "MOBA",
+        "Metroidvania",
+        "Turn-Based",
+        "Open World",
+        "Idle"
+      ]
+    },
     "workPlatform": {
       "type": "enumeration",
       "enum": [
