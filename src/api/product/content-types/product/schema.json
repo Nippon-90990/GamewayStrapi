@@ -180,7 +180,7 @@
     "min_sound_card": {
       "type": "text"
     },
-    "gametheme:": {
+    "gametheme": {
       "type": "enumeration",
       "enum": [
         "Sci-Fi",
@@ -211,7 +211,7 @@
         "Retro"
       ]
     },
-    "gamemod:": {
+    "gamemod": {
       "type": "enumeration",
       "enum": [
         "Single Player",
@@ -233,7 +233,7 @@
         "Real-time"
       ]
     },
-    "gametag-1:": {
+    "gametag-1": {
       "type": "enumeration",
       "enum": [
         "Action",
@@ -262,7 +262,7 @@
         "Idle"
       ]
     },
-    "gametag-2:": {
+    "gametag-2": {
       "type": "enumeration",
       "enum": [
         "Action",
