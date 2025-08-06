@@ -233,7 +233,7 @@
         "Real-time"
       ]
     },
-    "gametag-1": {
+    "gametag1": {
       "type": "enumeration",
       "enum": [
         "Action",
@@ -262,7 +262,7 @@
         "Idle"
       ]
     },
-    "gametag-2": {
+    "gametag2": {
       "type": "enumeration",
       "enum": [
         "Action",
