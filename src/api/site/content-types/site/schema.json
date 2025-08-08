@@ -13,6 +13,9 @@
   "attributes": {
     "maintenance_mode": {
       "type": "boolean"
+    },
+    "title": {
+      "type": "string"
     }
   }
 }
